@@ -1,0 +1,92 @@
+???? [*] Checking if process loaded modules contains: sbiedll.dll  -> 0
+???? [*] Checking if process loaded modules contains: pstorec.dll  -> 0
+???? [*] Checking if process loaded modules contains: vmcheck.dll  -> 0
+???? [*] Checking Interupt Descriptor Table location:  -> 0
+???? [*] Checking Local Descriptor Table location:  -> 0
+???? [*] Checking Global Descriptor Table location:  -> 0
+???? [*] Checking Store Task Register location:  -> 0
+???? [*] Checking Time :  -> 0
+???? [*] Checking if CPU hypervisor field is set using cpuid(0x1) -> 0
+???? [*] VM Driver Services :  -> 0
+???? [*] Checking SerialNumber from BIOS using WMI:  -> 0
+???? [*] Checking reg key HARDWARE\Description\System - Identifier is set to VBOX: -> 0
+???? [*] Checking reg key HARDWARE\Description\System - SystemBiosVersion is set to VBOX: -> 0
+???? [*] Checking reg key HARDWARE\Description\System - VideoBiosVersion is set to VIRTUALBOX: -> 0
+???? [*] Checking reg key HARDWARE\Description\System - SystemBiosDate is set to 06/23/99: -> 0
+???? [*] Checking dir oracle\virtualbox guest additions\:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\VBoxMouse.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\VBoxGuest.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\VBoxSF.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\VBoxVideo.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxdisp.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxhook.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxmrxnp.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxogl.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglarrayspu.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglcrutil.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglerrorspu.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglfeedbackspu.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglpackspu.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxoglpassthroughspu.dll:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxservice.exe:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\vboxtray.exe:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\VBoxControl.exe:  -> 0
+???? [*] Checking reg key HARDWARE\ACPI\DSDT\VBOX__:  -> 0
+???? [*] Checking reg key HARDWARE\ACPI\FADT\VBOX__:  -> 0
+???? [*] Checking reg key HARDWARE\ACPI\RSDT\VBOX__:  -> 0
+???? [*] Checking reg key SOFTWARE\Oracle\VirtualBox Guest Additions:  -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Services\VBoxGuest:  -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Services\VBoxMouse:  -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Services\VBoxService:  -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Services\VBoxSF:  -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Services\VBoxVideo:  -> 0
+???? [*] Checking Mac Address start with 08:00:27:  -> 0
+???? [*] Checking device \\.\VBoxMiniRdrDN:  -> 0
+???? [*] Checking device \\.\VBoxGuest:  -> 0
+???? [*] Checking device \\.\pipe\VBoxMiniRdDN:  -> 0
+???? [*] Checking device \\.\VBoxTrayIPC:  -> 0
+???? [*] Checking device \\.\pipe\VBoxTrayIPC:  -> 0
+???? [*] Checking VBoxTrayToolWndClass / VBoxTrayToolWnd:  -> 0
+???? [*] Checking VirtualBox Shared Folders network provider:  -> 0
+???? [*] Checking virtual box processe vboxservice.exe:  -> 0
+???? [*] Checking virtual box processe vboxtray.exe:  -> 0
+???? [*] Checking NTEventLog from WMI:  -> 0
+???? [*] Checking SMBIOS firmware :  -> 0
+???? [*] Checking ACPI tables :  -> 0
+???? [*] Checking In Instruction :  -> 0
+???? [*] Checking reg key HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0: -> 0
+???? [*] Checking reg key HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0: -> 0
+???? [*] Checking reg key HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0\Logical Unit Id 0: -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Control\SystemInformation: -> 0
+???? [*] Checking reg key SYSTEM\ControlSet001\Control\SystemInformation: -> 0
+???? [*] Checking reg key SOFTWARE\VMware, Inc.\VMware Tools:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmmouse.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmhgfs.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vm3dmp.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmci.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmhgfs.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmmemctl.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmmouse.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmrawdsk.sys:  -> 0
+???? [*] Checking file C:\WINDOWS\system32\drivers\vmusbmouse.sys:  -> 0
+???? [*] Checking MAC starting with: 00:05:69 -> 0
+???? [*] Checking MAC starting with: 00:0c:29 -> 0
+???? [*] Checking MAC starting with: 00:1C:14 -> 0
+???? [*] Checking MAC starting with: 00:50:56 -> 1
+???? [*] Checking VMWare network adapter name:  -> 0
+???? [*] Checking device \\.\HGFS:  -> 0
+???? [*] Checking device \\.\vmci:  -> 1
+???? [*] Checking VMWare directory:  -> 0
+???? [*] Checking vmware processe vmtoolsd.exe:  -> 0
+???? [*] Checking vmware processe vmwaretray.exe:  -> 0
+???? [*] Checking vmware processe vmwareuser.exe:  -> 0
+???? [*] Checking vmware processe VGAuthService.exe:  -> 0
+???? [*] Checking vmware processe vmacthlp.exe:  -> 0
+???? [*] Checking SMBIOS firmware :  -> 0
+???? [*] Checking ACPI tables :  -> 0
+???? [*] Checking Virtual PC processes VMSrvc.exe:  -> 0
+???? [*] Checking Virtual PC processes VMUSrvc.exe:  -> 0
+???? [*] Checking reg key SOFTWARE\Microsoft\Virtual Machine\Guest\Parameters:  -> 0
+???? [*] Checking Instruction Set Architecture :  -> 0
+???? [*] Checking Citrix Xen process:  -> 0
+???? [*] Checking Mac Address start with 08:16:3E:  -> 0
